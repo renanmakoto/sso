@@ -1,0 +1,9 @@
+.DS_Store
+app_social_services.txt
+node_modules/
+apps/android/android/.gradle/
+apps/android/android/app/build/
+apps/android/android/build/
+apps/ios/DerivedData/
+apps/ios/*.xcworkspace/xcuserdata/
+apps/ios/*.xcodeproj/xcuserdata/
